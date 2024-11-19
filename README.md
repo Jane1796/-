@@ -10,4 +10,5 @@
 [Резюме Евгения Морозова](https://voronezh.hh.ru/applicant/resumes/view?resume=740ddfceff0de63ce10039ed1f456b4f42726b)
 # Тестовые артефакты 
 # Соцсети
-t.me/larrey96
+![image](https://github.com/user-attachments/assets/72ed74b7-cbfe-40c6-be04-72e2a718144a)
+
